@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/204548c0-a25a-484c-ae2a-1f36ab758d35" alt="GIF" width="300" />
+  <img src="https://github.com/user-attachments/assets/204548c0-a25a-484c-ae2a-1f36ab758d35" alt="GIF" width="250" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Priyank Bhardwaj</h1>
