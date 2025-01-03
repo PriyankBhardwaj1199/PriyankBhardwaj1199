@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/204548c0-a25a-484c-ae2a-1f36ab758d35" alt="GIF" width="300" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Priyank Bhardwaj</h1>
 <h3 align="center">A passionate Java Full Stack developer from India</h3>
 
@@ -6,6 +10,9 @@
 - 👨‍💻 All of my projects are available at my <a href="https://priyankbhardwaj1199.github.io/portfolio/"> Portfolio </a>
 
 - 📫 How to reach me **priyankbhardwaj1199@gmail.com**
+
+
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
