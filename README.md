@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyankbhardwaj1199" alt="priyankbhardwaj1199" /></a> </p>
 
-- 👨‍💻 All of my projects are available at my <a href="https://priyankbhardwaj1199.github.io/portfolio/"> Portfolio </a>
+- 👨‍💻 All of my projects are available at my <a href="https://priyankbhardwaj1199.github.io/portfolio/" target="_blank"> Portfolio </a>
 
 - 📫 How to reach me **priyankbhardwaj1199@gmail.com**
 
